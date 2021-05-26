@@ -13,4 +13,12 @@
         app:showAsAction="never"
         />
 
+    <item
+        android:id="@+id/item3"
+        android:title="menu 3"
+        android:icon="@drawable/ic_launcher_foreground"
+        app:showAsAction="ifRoom"
+        />
+
+
 </menu>
