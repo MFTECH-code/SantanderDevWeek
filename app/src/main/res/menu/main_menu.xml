@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
+
     <item
         android:id="@+id/item1"
-        android:title="meu menu"
-        app:showAsAction="never"
-        />
-
-    <item
-        android:id="@+id/item2"
-        android:title="menu 2"
-        app:showAsAction="never"
-        />
-
-    <item
-        android:id="@+id/item3"
-        android:title="menu 3"
-        android:icon="@drawable/ic_launcher_foreground"
+        android:title="menu 1"
+        android:icon="@drawable/ic_notifications_black_24dp"
         app:showAsAction="ifRoom"
         />
 
