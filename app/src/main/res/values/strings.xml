@@ -7,4 +7,5 @@
     <string name="txt_pagar">Pagar</string>
     <string name="txt_transferir">Transferir</string>
     <string name="txt_recarga">Recarga</string>
+    <string name="txt_cartao_final">Cartão Final:</string>
 </resources>
