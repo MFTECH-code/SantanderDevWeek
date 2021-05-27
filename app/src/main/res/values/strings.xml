@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">MeuPrimeiroApp</string>
     <string name="ola_mundo">Olá Mundo!!!</string>
+    <string name="txt_saldo_disponivel">Saldo disponível</string>
+    <string name="txt_saldo_limite">Saldo + Limite:</string>
+    <string name="txt_ver_extrato">Ver extrato</string>
 </resources>

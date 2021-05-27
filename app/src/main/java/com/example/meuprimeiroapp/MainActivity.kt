@@ -33,6 +33,10 @@ class MainActivity : AppCompatActivity() {
                 Log.d("CLICK", "ITEM 2 SELECIONADO KKKKSJJJ")
                 true
             }
+            R.id.item3 -> {
+                Log.d("CLICK", "MENU 3 KKKKJJJ")
+                true
+            }
             else -> super.onOptionsItemSelected(item)
         }
     }
